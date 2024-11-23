@@ -8,6 +8,9 @@ List of mine learning projects
 This is a 2D game engine in Java, based on a tutorial. <br>
 [repo](https://github.com/martonban/BagEnginePOC)
 
+# First Godot Game
+https://github.com/martonban/FirstGodotGame
+
 # First Unity Game
 Tutorial based Unity game <br>
 [repo](https://github.com/martonban/UnityGameTutorial)
